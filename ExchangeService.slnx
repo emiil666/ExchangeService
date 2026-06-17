@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ExchangeClient/ExchangeClient.csproj" Id="cabdacc1-8173-49fd-9b11-5f87c5d664b1">
+    <BuildDependency Project="ExchangeService/ExchangeService.csproj" />
+  </Project>
+  <Project Path="ExchangeService/ExchangeService.csproj" Id="cc883b17-2d48-4e79-bfb3-77ee2f7dfff2" />
+</Solution>
